@@ -18,8 +18,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/emer2006/CharlieBot2.0
-> cd Permanente
+> git clone https://github.com/emer2006/BotChina
+> cd BotChina
 > yarn install 
 > npm install
 > npm update
