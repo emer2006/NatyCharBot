@@ -18,8 +18,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/emer2006/TcBot
-> cd TcBot
+> git clone https://github.com/emer2006/Botseshat
+> cd Botseshat
 > yarn install 
 > npm install
 > npm update
@@ -58,7 +58,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```
 
 ## `EDITOR Y PROPIETARIO DEL BOT` 
-`Ale __________ Ale?`
+`Charlie __________ Charlie?`
 
 ![Snake animation](https://github.com/GataNina-Li/GataNina-Li/blob/output/github-contribution-grid-snake.svg)
 </div>
