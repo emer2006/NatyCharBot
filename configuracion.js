@@ -19,8 +19,8 @@ global.owner = [
   ['595986674310']
 
 ] 
-global.suittag = ['51928500082'] 
-global.mods = ['595986674310'] 
+global.suittag = ['51994156047'] 
+global.mods = ['51994156047'] 
 global.prems = [] 
 
 global.APIs = { // API Prefix
