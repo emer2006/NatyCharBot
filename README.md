@@ -1,5 +1,5 @@
 
-### `—◉ 👑 ¡Hola! Aleizn-MD?, CONTACTAME 👑`
+### `—◉ 👑 ¡Hola! CharlieBot, CONTACTAME 👑`
 <a href="http://wa.me/+5493878224071" target="blank"><img src="https://img.shields.io/badge/Ale-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 > NO BOT
 
@@ -18,8 +18,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/emer2006/AriBot
-> cd BotCharlie
+> git clone https://github.com/emer2006/TcBot
+> cd TcBot
 > yarn install 
 > npm install
 > npm update
